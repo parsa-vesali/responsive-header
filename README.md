@@ -16,4 +16,4 @@ a creative header with tailwind
 
 ## 💻 preview :
 
-![shopping link](https://github.com/parsa-vesali/shopping/blob/main/site-1.PNG)
+![shopping link](https://github.com/parsa-vesali/responsive-header/blob/main/header-preview.PNG)
